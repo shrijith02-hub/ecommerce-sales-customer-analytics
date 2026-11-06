@@ -13,6 +13,6 @@ This folder contains the PostgreSQL scripts used in the E-commerce Sales & Custo
 | 05_cohort_analysis.sql | Calculate customer cohort retention |
 | 06_delivery_analysis.sql | Analyze delivery performance and customer reviews |
 | 07_category_analysis.sql | Analyze product category performance |
-| 08_analytical_views.sql | Create SQL views for Power BI |
+
 
 All scripts will be organized by analytical task and executed using PostgreSQL.
